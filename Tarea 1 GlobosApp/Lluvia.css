@@ -1,0 +1,52 @@
+
+*{
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+	background-color: #add8e6;
+}
+
+.icono {
+	position: fixed;
+	
+	font-size: 30px;
+	animation: caida 3s linear forwards;
+}
+
+.contenedor{
+	display: flex;
+	align-items: center;
+	justify-content: center;
+	flex-direction: column;
+
+	height: 100vh;
+}
+
+	
+
+	.contenedor button{
+		margin: 10px;
+		font-size: 30px;
+		padding: 30px;
+		background: blue;
+		color: white; 
+	}
+
+		.contenedor button:hover{
+			background: red;
+			color: yellow; 			
+		}
+@keyframes caida {
+
+	to {
+		transform: translateY(-1vh);
+	}
+
+	from {
+		transform: translateY(100vh);
+	}
+}
+
+.oculta {
+	visibility: hidden;
+}
