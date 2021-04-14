@@ -1,0 +1,48 @@
+{
+
+	"TiempoAlmendralejo": [
+
+		{
+			"Nombre": "Almendralejo",
+
+			"Dias": [
+				{
+					"Dia1" : [
+						{
+							"Fecha": "14",
+							"Temperatura": "16º",
+							"Viento": "7km/h",
+							"Estado": [
+								{"Clima:Nublado"},{"Icono":"https://i.pinimg.com/originals/8e/77/ae/8e77aeeb964808e51ad0caa08742a952.jpg"}
+								]
+
+						},
+					],
+
+					"Dia2" : [
+						{
+							"Fecha": "15",
+							"Temperatura": "13º",
+							"Viento": "12km/h",
+							"Estado": [
+								{"Clima:Nublado"},{"Icono":"https://i.pinimg.com/originals/8e/77/ae/8e77aeeb964808e51ad0caa08742a952.jpg"}
+								],
+
+						},
+					],
+
+					"Dia3" : [
+						{
+							"Fecha": "16",
+							"Temperatura": "12º",
+							"Viento": "13km/h",
+							"Estado": [
+								{"Clima:Nublado"},{"Icono":"https://las4esquinas.com/wp-content/uploads/2016/07/dibujo-gotas-lluvia.png"}
+								],
+
+						},
+					],
+		}
+
+	]
+}
