@@ -1,48 +1,52 @@
 {
-
-	"TiempoAlmendralejo": [
-
+	"ciudad" : "Almendralejo",
+	"dias" : [
 		{
-			"Nombre": "Almendralejo",
-
-			"Dias": [
+			"dia" : 12,
+			"temperatura" : 15,
+			"viento" : 8,
+			"humedad" : 60,
+			"estado" :  
 				{
-					"Dia1" : [
-						{
-							"Fecha": "14",
-							"Temperatura": "16º",
-							"Viento": "7km/h",
-							"Estado": [
-								{"Clima:Nublado"},{"Icono":"https://i.pinimg.com/originals/8e/77/ae/8e77aeeb964808e51ad0caa08742a952.jpg"}
-								]
-
-						},
-					],
-
-					"Dia2" : [
-						{
-							"Fecha": "15",
-							"Temperatura": "13º",
-							"Viento": "12km/h",
-							"Estado": [
-								{"Clima:Nublado"},{"Icono":"https://i.pinimg.com/originals/8e/77/ae/8e77aeeb964808e51ad0caa08742a952.jpg"}
-								],
-
-						},
-					],
-
-					"Dia3" : [
-						{
-							"Fecha": "16",
-							"Temperatura": "12º",
-							"Viento": "13km/h",
-							"Estado": [
-								{"Clima:Nublado"},{"Icono":"https://las4esquinas.com/wp-content/uploads/2016/07/dibujo-gotas-lluvia.png"}
-								],
-
-						},
-					],
+				"nombre" : "soleado",
+				"icono" : "urlWeb"
+				}				
+		},
+		{
+			"dia" : 13,
+			"temperatura" : 13,
+			"viento" : 11,
+			"humedad" : 20,
+			"estado" :  
+				{
+				"nombre" : "nublado",
+				"icono" : "urlWeb"
+				}				
+		},
+		{
+			"dia" : 14,
+			"temperatura" : 11,
+			"viento" : 13,
+			"humedad" : 64,
+			"estado" :  
+				{
+				"nombre" : "truenos",
+				"icono" : "urlWeb"
+				}				
+		},
+		{
+			"dia" : 15,
+			"temperatura" : 9,
+			"viento" : 15,
+			"humedad" : 70,
+			"estado" :  
+				{
+				"nombre" : "lluvia",
+				"icono" : "urlWeb"
+				}				
 		}
-
 	]
+
+
+
 }
