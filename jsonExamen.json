@@ -1,0 +1,133 @@
+{
+	"NombreTienda": "Sport shop",
+	"Ciudad" : "Almendralejo",
+	"DatosContacto": [
+		{	
+			"nombreDueño": "Jony Melavo",
+			"correo": "eseJony@gmail.com",
+
+		}
+	],
+	"PosibleVerEnDispoditivos": [
+{
+	"moviles":"Si",
+	"ordenadores": "Si",
+	"tabletas" : "Si"
+}
+
+],
+"camisetas" : [
+{
+	"prenda": "camiseta",
+	"manga" : "corta",
+	"marca" : "mike",
+	"tallas" :
+	{
+		"pequeña" : "S",
+		"mediana" : "M",
+		"grande" : "L"
+	}
+},
+
+{
+	"prenda": "camiseta",
+	"manga" : "larga",
+	"marca" : "addidas",
+	"tallas" :
+	{
+		
+		"mediana" : "M",
+		"grande" : "L"
+	}
+},
+
+{
+	"prenda": "camiseta",
+	"manga" : "no",
+	"marca" : "Gordan",
+	"tallas" :
+	{
+		
+		"mediana" : "M",
+		"grande" : "L",
+		"muygrande": "XL"
+	}
+}
+
+
+],
+
+"pantalones" :[
+
+	{
+		"tipo": "cortos",
+		"marca": "gordan",
+		"tallas": {
+			"pequeña": "S",
+			"mediana": "M",
+			"muygrande": "XL"
+		}
+	},
+	{
+		"tipo": "cortos",
+		"marca": "Mike",
+		"tallas": {
+			"pequeña": "S",
+			"mediana": "M",
+		}
+	},
+
+	{
+		"tipo": "largos",
+		"marca": "addidas",
+		"tallas": {
+			"mediana": "M",
+			"muygrande": "XL"
+		}
+	},
+
+],
+
+"zapatillas" :[
+{
+	"tipo": "Baloncesto",
+	"marca": "gordan",
+	"tallas":  {
+		"pequeña": 40,
+		"mediana": 43,
+		"grande": 45
+
+	}
+
+},
+{
+	"tipo": "Futol",
+	"marca": "Messirve",
+	"tallas":  {
+		"pequeña": 40,
+		"mediana.": 41,
+		"mediana": 42
+		
+
+	}
+
+},
+
+{
+	"tipo": "Baloncesto",
+	"marca": "mike",
+	"tallas":  {
+		"grande": 44,
+		"grande.": 45,
+		"muygrande": 46
+
+	}
+
+},
+
+
+
+]
+
+
+}
