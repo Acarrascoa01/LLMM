@@ -1,0 +1,43 @@
+{
+	"peliculas" : [
+		{
+
+		"Titulo": "Los simpsons",
+		"Genero": "Comedia",
+		"Descricion": "Pelicula que trata sobre la vida de estos seres amarillos",
+		"Duracion" : 40,
+		"Imagen": " ",
+		"Numerocapitulos": 1200
+		}
+
+		{
+		"Titulo": "El señor de los anillos",
+		"Genero": "Accion",
+		"Descricion": "No se porque no he visto la peli jajaja",
+		"Duracion" : 120,
+		"Imagen": " ",
+		"Numerocapitulos": 3
+		}
+		{
+		"Titulo": "HarryPotter",
+		"Genero": "Accion",
+		"Descricion": "A un chico nuevo le llega una carta para inscribirse en una prestigiosa escuela de magia",
+		"Duracion" : 140,
+		"Imagen": " ",
+		"Numerocapitulos": 1200
+		}
+
+
+
+
+
+
+	]
+
+
+
+
+
+
+
+}
